@@ -1,1 +1,2 @@
 i'm following this [text](https://lean-lang.org/functional_programming_in_lean/)!
+[this prooflab article](https://loeh.app.uni-regensburg.de/teaching/prooflab_ws2122/lecture_notes.pdf) is also a good resource
